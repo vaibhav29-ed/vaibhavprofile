@@ -48,7 +48,7 @@ const hoverCardsData: Record<string, {
     bannerText: "network • build • impact",
   },
   medium: {
-    handle: "@anuragdotdev",
+    handle: "@vaibhavsingh292005",
     bio: "Writing technical articles about software development, system design, React, and backend architecture.",
     stats: ["Tech Articles", "Blog Posts"],
     bannerText: "write • share • read",
