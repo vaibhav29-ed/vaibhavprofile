@@ -7,8 +7,8 @@ const SEQUENCES = [
     "ArrowLeft", "ArrowRight", "ArrowLeft", "ArrowRight",
     "b", "a",
   ],
-  ["a", "n", "u", "r", "a", "g"],
-  ["j", "h", "a"],
+  ["V", "a", "i", "b", "h", "a","v"],
+  ["S", "i", "n", "g", "h"],
 ];
 
 export function Konami() {
