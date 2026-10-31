@@ -87,12 +87,12 @@ export const site = {
   ] as Job[],
   projects: [
     {
-      title: "Convo.Ai",
+      title: "CommitScribble",
       blurb:
-        "Convo AI is an AI-powered chatbot that allows users to upload PDF documents and interact with their content through natural language conversations",
+        "CommitScribble reads your repository, writes the README, and patches only the sections your code actually changed.",
       story:
-        "Convo AI turns static PDFs into interactive conversations. Upload a document, ask questions in natural language, and get context-aware answers grounded in your files. Built to make information easier to explore, understand, and access without digging through pages.\n\n*Designed for speed • Engineered for feel.*",
-      stack: ["React.js", "Tailwind CSS", "Nvidia-LLMs API", "PDF Processing"],
+         "CommitScribble makes repository documentation effortless. It understands your codebase, generates meaningful README content, and keeps documentation aligned with code changes without rewriting everything from scratch.\n\nBuilt for developers who want to spend less time documenting and more time shipping. Designed to make documentation smarter, faster, and developer-friendly.\n\n*Your code evolves. Your documentation follows.*",
+      stack: ["React.js", "Tailwind CSS", "Convex", "LLM API", "GitHub API"],
       year: "2026",
       links: {
         live: "Soon",
