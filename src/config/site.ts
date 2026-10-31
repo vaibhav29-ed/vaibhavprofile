@@ -99,7 +99,7 @@ export const site = {
         source: "https://github.com/vaibhav29-ed",
       }, featured: false,
       status: "In Progress",
-      image: "/convoai.png",
+      image: "/commitscribblehomepage.png",
       categories: ["Fullstack"],
     },
 
