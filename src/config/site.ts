@@ -152,7 +152,13 @@ export const site = {
       readingTime: "20 min read",
       url: "https://medium.com/@vaibhavsingh292005/the-math-needed-for-ai-ml-228e80287d22?sharedUserId=vaibhavsingh292005",
     },
-
+  {
+      title: "I Built CommitScribble Because Nobody Likes Writing READMEs.",
+      summary: "The idea came from a pretty familiar developer experience. We spend a lot of time writing code, adding features, refactoring components, and changing project structures. But the README often stays exactly where it was when the project started..",
+      date: "October 31, 2026",
+      readingTime: "36 min read",
+      url: "https://medium.com/@vaibhavsingh292005/i-built-commitscribble-because-nobody-likes-writing-readmes-0c5f618d3642?sharedUserId=vaibhavsingh292005",
+    },
   ] as Post[],
   github: {
     username: "vaibhav29-ed",
