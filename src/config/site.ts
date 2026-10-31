@@ -39,7 +39,7 @@ export const site = {
     "/pp3.jpg",
     "/Profilepic.jpg",
   ],
-  bannerImage: "/bannerpic.png",
+  bannerImage: "/banner3.png",
   socialBannerImage: "/social-banner.png",
   initials: "VS",
   role: "Full Stack Developer",
